@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgba(13, 213, 130, 0.934);
+    padding-block: 15px;
+}
+
+
+.navbar ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 25px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    transition: .15s;
+}
+
+.navbar a:hover {
+    color: white;
+}
