@@ -4,7 +4,7 @@ import { BiAbacus } from "react-icons/bi";
 
 function Footer() {
     return(
-        <div className='container bg-dark'>
+        <div className='container bg-dark text-white'>
             <div className='row'>
                 {/* colum يعني خانة جديدة */}
                 <div className='col'>
@@ -26,6 +26,9 @@ function Footer() {
                 </div>
             </div>
         </div>  
+        // <div className='container'>
+        //     footer
+        // </div>
     )
 }
 

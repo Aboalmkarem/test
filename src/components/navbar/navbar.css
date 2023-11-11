@@ -1,22 +1,13 @@
-.navbar {
-    background-color: rgba(13, 213, 130, 0.934);
-    padding-block: 15px;
+
+
+
+.ul {
+    gap: 1rem;
+    font-size: 20px;
+    justify-content: center;
+    align-items: end;
 }
 
-
-.navbar ul {
-    display: flex;
-    justify-content: space-evenly;
-    list-style: none;
-    font-size: 25px;
-}
-
-.navbar a {
+.ul a {
     text-decoration: none;
-    color: black;
-    transition: .15s;
-}
-
-.navbar a:hover {
-    color: white;
 }

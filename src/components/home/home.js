@@ -2,20 +2,9 @@ import './home.css'
 
 function Home () {
     return(
-        <div className='contanier'>
-        Hello world!
-        sdfsafsfsaf
-        dsaf
-        sdfsafsfsafsa
-        fromas
-        fromas
-        fromsaf
-        sdfsafsfsaff
-        sdfsafsfsafsa
-        fromsaffa
-        sdfsafsfsafas
-        fromsaf 
-    </div>
+        <div className='home container bg-secondary text-white'>
+            hello world
+        </div>
     )
 }
 
